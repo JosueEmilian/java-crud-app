@@ -4,7 +4,7 @@ To run it you need to have
 * MySQL pre-installed
 * some MySQL UI ( I used MySql Workbench )
 
-*Libraries
-  Mysql-connector
-  Commons-dbcp
-  Commons-pool
+Libraries
+* Mysql-connector
+* Commons-dbcp
+* Commons-pool
